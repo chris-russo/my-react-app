@@ -1,6 +1,6 @@
 body {
-  font: 14px "Century Gothic", Futura, sans-serif;
-  margin: 20px;
+  font: 14px "Arial Black", sans-serif;
+  margin: 30px;
 }
 
 ol, ul {
@@ -14,7 +14,7 @@ ol, ul {
 }
 
 .status {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .square {
